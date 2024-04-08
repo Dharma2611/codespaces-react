@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1001,
+        "name":"dharmendra",
+        "username": "dammu",
+        "email": "dgangwal@gmail.com",
+        "phoneNo.": 8358009959,
+        "website": "google.com"
+
+    },
+    {
+        "id": 1002,
+        "name":"krishna",
+        "username": "kkran",
+        "email": "krisna@gmail.com",
+        "phoneNo.": 120182083,
+        "website": "google.com"
+
+    },
+    {
+        "id": 1001,
+        "name":"deepu",
+        "username": "deep",
+        "email": "deepu@gmail.com",
+        "phoneNo.": 233797439,
+        "website": "google.com"
+
+    }
+]
