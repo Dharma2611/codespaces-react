@@ -1,20 +1,20 @@
 import './App.css';
 import { BrowserRouter,Routes ,Route } from 'react-router-dom';
-import Home from './Component/home'
-import Create from './Component/create';
-import Read from './Component/read';
-import Update from './Component/update';
+import 'bootstrap/dist/css/bootstrap.min.css'
+import User from './Component/User'
+
 
 function App() {
   return (
     <>
+    <div>
+      <h1>nav</h1>
+    </div>
     
     <BrowserRouter>
       <Routes>
-        <Route path='/' element ={<Home/>}/>
-        <Route path='/create' element ={<Create/>}/>
-        <Route path='/read' element ={<Read/>}/>
-        <Route path='/update' element ={<Update/>}/>
+        <Route path='/user' element={<User/>}/>
+    
       </Routes>
     </BrowserRouter>
     </>

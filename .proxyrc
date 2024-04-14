@@ -1,0 +1,5 @@
+{
+    "/api":{
+        "tyarget": "http://localhost:8080/"
+    }
+}
